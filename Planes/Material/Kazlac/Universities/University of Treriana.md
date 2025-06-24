@@ -1,0 +1,7 @@
+- Professor of note Ninia
+- Studies:  
+    - Enchantment  
+    - Divination  
+    - Illusion  
+    - Transmutation  
+    - Abjuration

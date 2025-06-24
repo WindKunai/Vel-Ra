@@ -1,0 +1,7 @@
+- Notable Professor: Afterien  
+- Studies:
+	- School of Enchantment  
+	- School of Conjuration
+	- School of Chronurgy
+	- School of Transmutation
+	- School of War Magic
