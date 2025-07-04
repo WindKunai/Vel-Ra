@@ -11,7 +11,7 @@ Outline:
 	- We Must reach the twilight
 	- Neutral territory 
 	- Give some tips:
-		1. thiere
+		1. there
 		2. 
 
-The Travel
+- Finding [[Knax Driv]] then travel to the [[Twilight]]

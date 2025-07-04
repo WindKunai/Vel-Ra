@@ -1,4 +1,24 @@
 
+Start point:
+- Militarization 
+- rising tensions
+- 
+
+End point:
+- Malum forced out of Kazlac
+- Healing nature
+
+
+What needs to happen:
+- Durfas appearance, psi abilities? plot relevance
+	- Like Idk incinerate enemies?
+
+
+Planned:
+- Scenes:
+	- Wandering through a couple of months old battlefield
+
+
 
 
 

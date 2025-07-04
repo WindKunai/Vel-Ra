@@ -1,6 +1,6 @@
 
 The party / Group comprises of:
-- [[Slim]]
+- [[Zephar Slim]]
 - [[Claax Driv]]
 - [[Bazdok]]
 - 
