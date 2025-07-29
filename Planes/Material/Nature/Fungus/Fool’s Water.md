@@ -1,0 +1,1 @@
+Slime mold that looks like water. Sticks to those who touch it, dealing 1d6 Acid damage each turn until removed. Reacts violently when exposed to water, splattering in a 10-foot Emanation.

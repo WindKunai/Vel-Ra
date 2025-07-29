@@ -1,0 +1,1 @@
+Root in gravesoil and absorb negative energy. A creature that takes any Necrotic damage within 5 feet of a living one has Resistance to that damage.

@@ -1,0 +1,1 @@
+Emits spores in a 15-foot Emanation if disturbed, Poisoning creatures in the area for 1 minute (Save Ends at end of turn). While Poisoned in this way, the creature suffers one effect from the [Fungal Phantasmagoria](https://homebrewery.naturalcrit.com/share/IiENJHEfNd3F) table.

@@ -1,0 +1,1 @@
+Enhances sense of smell for 1d4 hours when eaten. Afterwards become unable to smell or taste until you complete a Long Rest.

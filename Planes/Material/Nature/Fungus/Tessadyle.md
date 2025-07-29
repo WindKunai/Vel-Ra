@@ -1,0 +1,1 @@
+Fluoresces when psionics are in use nearby.

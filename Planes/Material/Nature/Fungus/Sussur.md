@@ -1,0 +1,1 @@
+These towering fungi absorb magic, dulling or nullifying its effects nearby.

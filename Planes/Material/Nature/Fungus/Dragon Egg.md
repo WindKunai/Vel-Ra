@@ -1,0 +1,1 @@
+Medicinal, can help soothe or prevent burns.

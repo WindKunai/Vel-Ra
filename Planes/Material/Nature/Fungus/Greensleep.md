@@ -1,0 +1,1 @@
+Emit a gas that induces mild drowsiness. Creatures that complete a Long Rest within 60 feet of one recover half as many Hit Points.

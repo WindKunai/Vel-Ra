@@ -1,0 +1,1 @@
+Emits spores that cause Cave Terrors. Frightened creatures within 20 feet of one treat all creatures as hostile
