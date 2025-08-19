@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Character Plots/At what price.md",
+                "file": "Lore/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "At what price"
+              "title": "Summary"
+            }
+          },
+          {
+            "id": "d6b7ecd1d99b8fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Images/Monsters/Fey/Hag, Sand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hag, Sand"
+            }
+          },
+          {
+            "id": "2e39c1b9958d9c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Dragons/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,46 +225,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3585959ad73dad70",
+  "active": "2e39c1b9958d9c51",
   "lastOpenFiles": [
-    "Planes/Material/Nature/Fungus/Fungal Creatures/Basidironds.md",
-    "Planes/Material/Nature/Fungus/Fungal Phantasmagoria.md",
-    "Planes/Material/Nature/Fungus/Fungal Creatures",
-    "Planes/Feywild/Races/Myconids/Sporegarden.md",
-    "Planes/Material/Nature",
-    "Planes/Material/Nature/Fungus/Timmask.md",
-    "Planes/Material/Nature/Fungus/Tessadyle.md",
-    "Planes/Material/Nature/Fungus/Sussur.md",
-    "Planes/Material/Nature/Fungus/Phycomid.md",
-    "Planes/Material/Nature/Fungus/Nilhogg’s Nose.md",
-    "Planes/Material/Nature/Fungus/Fool’s Water.md",
-    "Planes/Material/Nature/Fungus/Greensleep.md",
-    "Planes/Material/Nature/Fungus/Dragon Egg.md",
-    "Planes/Material/Nature/Fungus/Cave Creeper.md",
-    "Planes/Material/Nature/Fungus/Bonecap.md",
-    "Planes/Material/Nature/Fungus/Barrelstalk.md",
-    "Planes/Material/Nature/Fungus/Zygom.md",
-    "Planes/Material/Nature/Fungus/Violet Fungus.md",
-    "Planes/Material/Nature/Fungus/Torchstalk.md",
-    "Planes/Material/Nature/Fungus/Tongue of Madness.md",
-    "Planes/Material/Nature/Fungus",
-    "Planes/Feywild/Nature",
-    "Planes/Feywild/Races/Myconids/Summary.md",
-    "Stories/Character Plots/Healing the World.md",
-    "Planes/Feywild/Races/Myconids",
-    "Stories/Character Plots/At what price.md",
-    "The Party/Zephar Slim.md",
-    "Stories/Character Plots/The Demons Within.md",
-    "Planes/Feywild/Locations/Twilight/Twilight.md",
+    "Creatures/Humanoids/Dragonkin.md",
+    "Creatures/Humanoids/Dragonborn.md",
+    "Creatures/Dragons/Intro.md",
+    "Gods and Religions/Greater Beings/Trinity of Light/Trinity of Light.md",
+    "Creatures/Humanoids/Kobold.md",
+    "Creatures/Humanoids/Untitled",
+    "Planes/Material/Kazlac/History/Summary/Historical Events.md",
+    "Creatures/Dragons/Gem",
+    "Creatures/Dragons/Metallic",
+    "Creatures/Dragons/Chromatic",
+    "Lore/Dragons",
+    "Planes/Material/Kazlac/History/Summary/Magic Schools.md",
+    "Planes/Material/Kazlac/History/Summary/Alcoholic beverages.md",
+    "Stories/Main Plots/War Questlines/Victory.md",
+    "Planes/Material/Kazlac/History/Summary",
+    "Planes/Material/Kazlac/History",
+    "Stories/Main Plots/War Questlines/Suggestions.md",
+    "Stories/Main Plots/War Questlines/Child of War.md",
+    "Stories/Main Plots/War And Occupation.md",
     "Stories/Main Plots/Trial of the Fey.md",
-    "Planes/Feywild/Locations/Night/Night.md",
-    "Planes/Feywild/Locations/Twilight",
-    "Planes/Feywild/Locations/Night",
-    "Planes/Feywild/Locations/Day",
-    "Planes/Feywild/Locations",
-    "Planes/Feywild/Races/Satyr",
-    "Planes/Feywild/Dastoviror Map.jpg",
-    "Pasted image 20250625205054.png",
-    "Pasted image 20250624231612.png"
+    "Stories/Main Plots/How Wars are Fought.md",
+    "Special Organizations/Dwarven Groups/Thunderbeard Stormcallers.md",
+    "Special Organizations/Dwarven Groups/Test.md",
+    "Special Organizations/Dwarven Groups/Brightaxe Sages.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Test.md",
+    "Special Organizations/Dwarven Groups/1. Summary.md",
+    "Special Organizations/Dwarven Groups/Firebeard Hearthkeepers.md",
+    "Special Organizations/Druidic Circles/Unknown.md",
+    "Special Organizations/Druidic Circles/Storms.md",
+    "Special Organizations/Druidic Circles/Spirits.md",
+    "Special Organizations/Druidic Circles/Life.md",
+    "Images/Npcs/Vincary Dilac Syphon Idea.png",
+    "Special Organizations/Bard Colleges/Untitled",
+    "Gods and Religions/Lesser Beings",
+    "Images/Npcs",
+    "Images/Monsters/Monstrosities/Isonade.png",
+    "Images/Monsters/Undead/Gray Thirster.png",
+    "Images/Monsters/Constructs/Golem Hoard.png",
+    "Images/Monsters/Abberations/Dorreq.png",
+    "Images/Monsters/Fey/Nichny.png",
+    "Images/Monsters/Fey/Sand Hag.png",
+    "Images/Monsters/Fey/Bear King.png",
+    "Images/Monsters/Fey/Fear Smith.png",
+    "Images/Maps/Feywild/Dastoviror Map.jpg"
   ]
 }
