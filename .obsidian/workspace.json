@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Intro"
             }
+          },
+          {
+            "id": "ab7135395f424adf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,7 +238,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e39c1b9958d9c51",
+  "active": "ab7135395f424adf",
   "lastOpenFiles": [
     "Creatures/Humanoids/Dragonkin.md",
     "Creatures/Humanoids/Dragonborn.md",
